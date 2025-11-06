@@ -1,0 +1,17 @@
+# Ignora la cartella dell'ambiente virtuale
+venv/
+
+# Ignora modelli YOLO e file pesanti
+*.pt
+*.onnx
+*.engine
+*.model
+*.zip
+
+# Ignora cartelle di modelli
+yolov*_
+yolov*_*
+
+# Ignora file temporanei
+__pycache__/
+*.log
