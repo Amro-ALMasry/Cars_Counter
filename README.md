@@ -31,7 +31,7 @@ Versione consigliata: **Python 3.9 o superiore**
 
 ### ✅ 2. Installare le librerie necessarie
 
-Apri il terminale nella cartella del progetto e scrivi:
+Nella cartella del progetto crea un ambiente virtuale (venv) e scariche le librerie necessarie con questi comandi:
 
 ```bash
 pip install ultralytics opencv-python
