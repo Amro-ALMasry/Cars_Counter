@@ -21,7 +21,8 @@ Questo progetto utilizza **YOLOv8** per riconoscere e contare automaticamente le
 
 Il progetto utilizza le seguenti librerie principali:
 
-- **OpenCV**   
+- **OpenCV**
+```pip3 install opencv-python```  
 - **Ultralytics**  
 - **PyTorch**  
 ---
