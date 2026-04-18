@@ -21,12 +21,9 @@ Questo progetto utilizza **YOLOv8** per riconoscere e contare automaticamente le
 
 Il progetto utilizza le seguenti librerie principali:
 
-- **OpenCV**
-```pip3 install opencv-python```  
-- **Ultralytics**
-- ```pip3 install ultralytics```  
-- **PyTorch**
-- ```pip3 install torch torchvision torchaudio```
+- **OpenCV** ```pip3 install opencv-python```  
+- **Ultralytics** ```pip3 install ultralytics```  
+- **PyTorch, torchvision, torchaudio** ```pip3 install torch torchvision torchaudio```
 ---
 
 ## 📚 Dipendenze aggiuntive
