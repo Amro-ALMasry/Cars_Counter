@@ -21,15 +21,9 @@ Questo progetto utilizza **YOLOv8** per riconoscere e contare automaticamente le
 
 Il progetto utilizza le seguenti librerie principali:
 
-- **OpenCV 4.13.0** (con supporto GUI)  
-  → gestione webcam, immagini e disegno delle bounding box  
-
-- **Ultralytics 8.4.38 (YOLOv8)**  
-  → modello di intelligenza artificiale per il riconoscimento delle auto  
-
-- **PyTorch 2.11.0 (con CUDA)**  
-  → esecuzione del modello YOLO (accelerazione GPU se disponibile)  
-
+- **OpenCV**   
+- **Ultralytics**  
+- **PyTorch**  
 ---
 
 ## 📚 Dipendenze aggiuntive
@@ -40,7 +34,6 @@ Queste vengono installate automaticamente insieme a Ultralytics:
 - `pillow` → gestione immagini  
 - `torchvision` → supporto per PyTorch  
 - `torchaudio` → (incluso con PyTorch, non sempre usato)
-
 ---
 
 ## 🐍 Librerie standard (già incluse in Python)
@@ -49,12 +42,4 @@ Non serve installarle:
 
 - `time`
 - `collections`
-
 ---
-
-## ▶️ Avvio del programma
-
-Esegui:
-
-```bash
-python main.py
