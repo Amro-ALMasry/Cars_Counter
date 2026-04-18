@@ -23,8 +23,10 @@ Il progetto utilizza le seguenti librerie principali:
 
 - **OpenCV**
 ```pip3 install opencv-python```  
-- **Ultralytics**  
-- **PyTorch**  
+- **Ultralytics**
+- ```pip3 install ultralytics```  
+- **PyTorch**
+- ```pip3 install torch torchvision torchaudio```
 ---
 
 ## 📚 Dipendenze aggiuntive
